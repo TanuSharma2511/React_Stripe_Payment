@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css?family=Josefin+Sans|Mountains+of+Christmas&display=swap");
+h2{
+    font-weight: bold;
+    font-family: "Mountains of Christmas", cursive;
+    
+    color:#333;
+}
+h2 span{
+    color:rgb(145, 138, 138);
+    font-family:"Mountains of Christmas", cursive;
+}
